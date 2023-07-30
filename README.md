@@ -1,4 +1,4 @@
-## `PORPIETARIO DEL BOT` 
+## `PORPIETARIO DE LA COMUNIDAD WHARBOT` 
 [![Alex bodysuit1212](https://github.com/Incongnito45/bodysuit-2023/blob/master/Screenshot_20230730-142550-120.png)](https://github.com/MUNDIAL18/bodysuit_3.0-bot-whassapp_1344) 
 ```bash
 
